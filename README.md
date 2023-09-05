@@ -12,3 +12,5 @@
 * Bebinca
 * Vindaloo
 * Feni
+
+Click [here](MyStats.md) to open MyStats.md file.
